@@ -1,5 +1,5 @@
 {
-    "name": "spatie/async",
+    "name": "juzaweb/async",
     "description": "Asynchronous and parallel PHP with the PCNTL extension",
     "keywords": [
         "spatie",
